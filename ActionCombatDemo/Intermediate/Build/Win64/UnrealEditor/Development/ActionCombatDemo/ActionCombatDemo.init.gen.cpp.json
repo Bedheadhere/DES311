@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\redta\\documents\\unreal projects\\des311\\actioncombatdemo\\intermediate\\build\\win64\\unrealeditor\\inc\\actioncombatdemo\\actioncombatdemo.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\redta\\documents\\unreal projects\\des311\\actioncombatdemo\\intermediate\\build\\win64\\actioncombatdemoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\redta\\documents\\unreal projects\\des311\\actioncombatdemo\\intermediate\\build\\win64\\unrealeditor\\development\\actioncombatdemo\\definitions.actioncombatdemo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

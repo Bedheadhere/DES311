@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActionCombatDemo",
+			"Path": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\Source\\ActionCombatDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActionCombatDemoEditor",
+			"Path": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\Source\\ActionCombatDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

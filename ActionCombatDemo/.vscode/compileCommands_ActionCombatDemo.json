@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\Source\\ActionCombatDemo\\ActionCombatDemo.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\.vscode\\compileCommands_ActionCombatDemo\\ActionCombatDemo.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\Source\\ActionCombatDemo\\ActionCombatDemo.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\.vscode\\compileCommands_ActionCombatDemo\\ActionCombatDemo.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\Source\\ActionCombatDemo\\ActionCombatDemo.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\.vscode\\compileCommands_ActionCombatDemo\\ActionCombatDemo.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\Source\\ActionCombatDemo\\ActionCombatDemoGameModeBase.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\.vscode\\compileCommands_ActionCombatDemo\\ActionCombatDemo.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\Source\\ActionCombatDemo\\ActionCombatDemoGameModeBase.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\.vscode\\compileCommands_ActionCombatDemo\\ActionCombatDemo.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

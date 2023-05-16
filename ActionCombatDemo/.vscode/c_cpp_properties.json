@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "ActionCombatDemoEditor Editor Win64 Development (ActionCombatDemo)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\.vscode\\compileCommands_ActionCombatDemo.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\redta\\Documents\\Unreal Projects\\DES311\\ActionCombatDemo\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
